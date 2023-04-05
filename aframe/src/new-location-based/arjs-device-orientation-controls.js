@@ -12,6 +12,7 @@
  */
 
 import * as AFRAME from "aframe";
+
 AFRAME.registerComponent("arjs-device-orientation-controls", {
   schema: {
     smoothingFactor: {
